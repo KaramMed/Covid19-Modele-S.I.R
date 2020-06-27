@@ -5,8 +5,8 @@ population_totale = 40000000
 contacts_quotidien = 40
 probabilite_transmission = 0.0025
 duree_maladie = 30
-taux_gerison = 0.1378 # au maroc
-taux_morts = 0.0397 # au maroc
+taux_gerison = 0.7344 # au maroc
+taux_morts = 0.0185 # au maroc
 
 # calcul de R0
 def R0() :
